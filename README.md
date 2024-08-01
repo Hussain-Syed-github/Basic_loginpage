@@ -1,4 +1,3 @@
-
 # Basic Login Page with Authentication
 
 ## Overview
@@ -18,4 +17,6 @@ index.html: The main HTML file for the login page.\
 styles.css: CSS file for styling the login page.\
 script.js: JavaScript file handling the form submission and communication with the server.\
 server.js: Node.js server file handling HTTP requests and interfacing with the MySQL database.
+# Preview
 
+![preview](https://github.com/user-attachments/assets/eff07d14-48a7-4067-8e80-d945f6efbf18)
